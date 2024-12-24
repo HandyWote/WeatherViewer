@@ -1,2 +1,3 @@
 # WeatherViewer
 基于PyQt5和爬虫的天气查看小软件
+点击右侧release选择exe即可下载打包好的文件
